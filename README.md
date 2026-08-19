@@ -37,10 +37,11 @@ Tracks student attendance and calculates attendance percentage.
 Solved 4 DSA problems including Median of Two Sorted Arrays and Cinema Seat Allocation.
 Currently doing 100 Days of DSA Challenge.
 
-## 📊 GitHub Stats
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithra4341&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra4341&layout=compact&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithra4341&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra4341&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+### 🔥 Random Dev Quote
+[Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
