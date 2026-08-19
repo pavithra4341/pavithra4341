@@ -7,6 +7,34 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Projects
+
+### 1. Hotel Reservation System
+[Code](https://github.com/pavithra4341/CodeAlpha_HotelReservationSystem)
+`Java` `OOP`
+User ki room book cheyyadam, cancel cheyyadam, booking history chuse console application.
+
+### 2. Library Management System
+[Code](https://github.com/pavithra4341/LibraryManagementSystem)
+`Java` `File I/O` `Collections`
+Books add, issue, return cheyyadaniki use ayye system. Data file lo save avuthundi.
+
+### 3. Student Grade Tracker
+[Code](https://github.com/pavithra4341/CodeAlpha_StudentGradeTracker)
+`Java` `OOP`
+Student marks input tisukoni average, grade calculate chese program.
+
+### 4. Student Attendance System
+[Code](https://github.com/pavithra4341/StudentAttendanceSystem)
+`Java`
+Student attendance ni track chesi percentage calculate chese system.
+
+### 5. LeetCode Solutions
+[Code](https://github.com/pavithra4341/LeetCode-Solutions)
+`Java` `DSA` `Problem Solving`
+Median of Two Sorted Arrays, Cinema Seat Allocation lanti 50+ problems solve chesanu.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pavithra4341&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pavithra4341&theme=dark&hide_border=false)<br/>
